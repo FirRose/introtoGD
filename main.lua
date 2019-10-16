@@ -68,15 +68,4 @@ function love.draw()
         WINDOW_WIDTH,           -- number of pixels to center within (the entire screen here)
         'center')               -- alignment mode, can be 'center', 'left', or 'right'
 end
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
